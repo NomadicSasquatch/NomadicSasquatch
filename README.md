@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌟 **Welcome to my GitHub profile!**
+Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological University and I am passionate in learning new things and solving challenging problems.
+#
 
-<!--
-**NomadicSasquatch/NomadicSasquatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+### Programming Languages
+C, Python, Java, JavaScript, HTML, CSS
+### Frameworks and Libraries
+Node.js, React, Express.js
+### Databases
+MySQL, MongoDB
+### Development Tools
+VS Code, Visual Studio, Code::Blocks
+  
+## 🚀 Featured Projects
+[**Pathfinding Visualiser**](https://github.com/NomadicSasquatch/pathfinder)
+- An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation
+- Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Physics Simulated Asteroid Game**](https://github.com/NomadicSasquatch/Asteroids)
+- This project puts a twist on the classic arcade-style Asteroids Game where players navigate a spaceship, destroy asteroids, and strive for a high score.
+- Implemented in Java and every interaction is simulated by real physics laws and theorems, such as asteroid collisions obeying conservation of energy and momentum and kinematics.
