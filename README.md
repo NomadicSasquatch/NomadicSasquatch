@@ -20,3 +20,7 @@ VS Code, Visual Studio, Code::Blocks
 [**Physics Simulated Asteroid Game**](https://github.com/NomadicSasquatch/Asteroids)
 - This project puts a twist on the classic arcade-style Asteroids Game where players navigate a spaceship, destroy asteroids, and strive for a high score.
 - Implemented in Java and every interaction is simulated by real physics laws and theorems, such as asteroid collisions obeying conservation of energy and momentum and kinematics.
+
+[**Hospital Management System**](https://github.com/NomadicSasquatch/SC2002-Hospital-Management-System)
+- A simulated hospital management system that is cleanly laid and streamlined using OO concepts and SOLID principles
+- Wide array of interconnected functionalities that are unique to each user type
