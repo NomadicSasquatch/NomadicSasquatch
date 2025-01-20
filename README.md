@@ -22,5 +22,5 @@ VS Code, Visual Studio, Code::Blocks
 - Implemented in Java and every interaction is simulated by real physics laws and theorems, such as asteroid collisions obeying conservation of energy and momentum and kinematics.
 
 [**Hospital Management System**](https://github.com/NomadicSasquatch/SC2002-Hospital-Management-System)
-- A simulated hospital management system that is cleanly laid and streamlined using OO concepts and SOLID principles
+- A simulated hospital management system that is cleanly laid out and streamlined using OOP concepts along with SOLID and other design principles 
 - Wide array of interconnected functionalities that are unique to each user type
