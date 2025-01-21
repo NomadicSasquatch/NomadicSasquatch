@@ -13,7 +13,7 @@ MySQL, MongoDB
 VS Code, Visual Studio, Code::Blocks
   
 ## 🚀 Featured Projects
-[**Pathfinding Visualiser**](https://github.com/NomadicSasquatch/pathfinder)
+[**Pathfinding Visualiser**](https://github.com/NomadicSasquatch/Pathfinding-Visualiser)
 - An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation
 - Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed.
 
