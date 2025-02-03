@@ -30,4 +30,4 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 - Wide array of interconnected functionalities that are unique to each user type
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bo-yu-chong-3b52582a9/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:BCHONG020@e.ntu.edu.sg)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bo-yu-chong-3b52582a9/)
