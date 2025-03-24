@@ -21,7 +21,8 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 - An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation
 - Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed.
 
-### [**Full-Stack Dynamic AI Travel Companion Web Application**](https://github.com/NomadicSasquatch/TravelLah)
+### [**TravelLah!**](https://github.com/NomadicSasquatch/TravelLah)
+- Full-Stack Dynamic AI Travel Companion Web Application
 - Web application that uses cutting-edge AI to craft itineraries tailored specifically to your travel preferences, ensuring every plan is as unique
 - Incorporates live data—such as weather updates, traffic updates and local events, ensuring that your travel plan remains relevant and responsive to real-world conditions
 - Combining an intuitive Expo/React Native frontend with a robust Spring Boot/MongoDB backend and advanced AI orchestration, providing a game-changing, end-to-end travel planning solution
