@@ -1,7 +1,7 @@
 # 🌟 **Welcome to my GitHub profile!**
 Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological University and I am passionate in learning new things and solving challenging problems.
-#
 
+---
 ## 🛠️ Tech Stack
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,29 +15,31 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ### Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF)
-  
-## 🚀 Featured Projects
-### [**Pathfinding Visualiser**](https://github.com/NomadicSasquatch/Pathfinding-Visualiser)
+
+---
+
+## 🚀 Featured Projects 🚀
+### [**🏁Pathfinding Visualiser**](https://github.com/NomadicSasquatch/Pathfinding-Visualiser)
 - An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation
 - Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed.
 
-### [**TravelLah!**](https://github.com/NomadicSasquatch/TravelLah)
+### [**🌎TravelLah!**](https://github.com/NomadicSasquatch/TravelLah)
 - Full-Stack Dynamic AI Travel Companion Web Application
 - Web application that uses cutting-edge AI to craft itineraries tailored specifically to your travel preferences, ensuring every plan is as unique
 - Incorporates live data—such as weather updates, traffic updates and local events, ensuring that your travel plan remains relevant and responsive to real-world conditions
 - Combining an intuitive Expo/React Native frontend with a robust Spring Boot/MongoDB backend and advanced AI orchestration, providing a game-changing, end-to-end travel planning solution
 
-### [**Physics Simulated Asteroid Game**](https://github.com/NomadicSasquatch/Asteroids)
+### [**☄️Physics Simulated Asteroid Game**](https://github.com/NomadicSasquatch/Asteroids)
 - This project puts a twist on the classic arcade-style Asteroids Game where players navigate a spaceship, destroy asteroids, and strive for a high score.
 - Implemented in Java and every interaction is simulated by real physics laws and theorems, such as asteroid collisions obeying conservation of energy and momentum and kinematics.
 
-### [**Phishing Link Detection System**](https://github.com/NomadicSasquatch/Phishing-Link-Detection)
+### [**🛡️Phishing Link Detection System**](https://github.com/NomadicSasquatch/Phishing-Link-Detection)
 - The Phishing Link Detection System utilises machine learning techniques to accurately classify URLs as phishing or legitimate
 - This project incorporates data preprocessing, feature selection, class balancing with SMOTE, and hyperparameter-tuned models like Random Forest, ensuring high accuracy and reliability
 
-### [**Hospital Management System**](https://github.com/NomadicSasquatch/SC2002-Hospital-Management-System)
+### [**🏥Hospital Management System**](https://github.com/NomadicSasquatch/SC2002-Hospital-Management-System)
 - A simulated hospital management system that is cleanly laid out and streamlined using OOP concepts along with SOLID and other design principles 
 - Wide array of interconnected functionalities that are unique to each user type
-
+---
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bo-yu-chong-3b52582a9/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:BCHONG020@e.ntu.edu.sg)
