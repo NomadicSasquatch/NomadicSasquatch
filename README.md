@@ -20,7 +20,7 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 
 ## 🚀 Featured Projects 🚀
 ### [**🏁Pathfinding Visualiser**](https://github.com/NomadicSasquatch/Pathfinding-Visualiser)
-- An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation
+- An engaging, full-stack web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation
 - Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed.
 
 ### [**🧠Feedforward Neural Network from Scratch**](https://github.com/NomadicSasquatch/Feedforward-Neural-Network)
