@@ -23,6 +23,14 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 - An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation
 - Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed.
 
+### [**🧠Feedforward Neural Network from Scratch**](https://github.com/NomadicSasquatch/Feedforward-Neural-Network)
+- Fully custom feedforward neural network framework using Python and NumPy, showcasing both elementwise and vectorized forward passes, and manually implementing backpropagation via the chain rule
+- Demonstrates diverse optimizers and weight update strategies across datasets of increasing complexity, with specialized classes for exploring the architecture of neural networks, and a flexible MultiLayerFFN for a closer resemblance to real-world applications
+  
+### [**🛡️Phishing Link Detection System**](https://github.com/NomadicSasquatch/Phishing-Link-Detection)
+- The Phishing Link Detection System utilises machine learning techniques to accurately classify URLs as phishing or legitimate
+- This project incorporates data preprocessing, feature selection, class balancing with SMOTE, and hyperparameter-tuned models like Random Forest, ensuring high accuracy and reliability
+
 ### [**🌎TravelLah!**](https://github.com/NomadicSasquatch/TravelLah)
 - Full-Stack Dynamic AI Travel Companion Web Application
 - Web application that uses cutting-edge AI to craft itineraries tailored specifically to your travel preferences, ensuring every plan is as unique
@@ -32,10 +40,6 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 ### [**☄️Physics Simulated Asteroid Game**](https://github.com/NomadicSasquatch/Asteroids)
 - This project puts a twist on the classic arcade-style Asteroids Game where players navigate a spaceship, destroy asteroids, and strive for a high score.
 - Implemented in Java and every interaction is simulated by real physics laws and theorems, such as asteroid collisions obeying conservation of energy and momentum and kinematics.
-
-### [**🛡️Phishing Link Detection System**](https://github.com/NomadicSasquatch/Phishing-Link-Detection)
-- The Phishing Link Detection System utilises machine learning techniques to accurately classify URLs as phishing or legitimate
-- This project incorporates data preprocessing, feature selection, class balancing with SMOTE, and hyperparameter-tuned models like Random Forest, ensuring high accuracy and reliability
 
 ### [**🏥Hospital Management System**](https://github.com/NomadicSasquatch/SC2002-Hospital-Management-System)
 - A simulated hospital management system that is cleanly laid out and streamlined using OOP concepts along with SOLID and other design principles 
