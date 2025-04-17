@@ -29,7 +29,7 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 - Fully custom feedforward neural network framework using Python and NumPy, showcasing both elementwise and vectorized forward passes, and manually implementing backpropagation via the chain rule
 - Demonstrates diverse optimizers and weight update strategies across datasets of increasing complexity, with specialized classes for exploring the architecture of neural networks, and a flexible MultiLayerFFN for a closer resemblance to real-world applications
 
-## [**🛒CartPole Reinforcement Learning Experimentation**](https://github.com/NomadicSasquatch/CartPole_Reinforcement_Learning_Exp)
+### [**🛒CartPole Reinforcement Learning Experimentation**](https://github.com/NomadicSasquatch/CartPole_Reinforcement_Learning_Exp)
 - Comparative implementation of three reinforcement‑learning algorithms (Monte Carlo, Q‑Learning, and Deep Q‑Network with Double DQN) to solve OpenAI Gym’s CartPole‑v1, highlighting differences in convergence speed, stability, and generalization.
 - Complete training and evaluation pipeline—including state discretization for tabular methods, ε‑greedy exploration, experience replay for DQN, and episode rendering—providing insights into method trade‑offs and best practices.
   
