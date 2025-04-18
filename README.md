@@ -51,7 +51,7 @@ Expand for more information
   <ul>
     <li>Full-Stack Dynamic AI Travel Companion Web Application</li>
     <li>Web application that uses cutting-edge AI to craft itineraries tailored specifically to your travel preferences, ensuring every plan is as unique</li>
-    <li>Incorporates live data—such as weather updates, traffic updates and local events, ensuring that your travel plan remains relevant and responsive to real-world conditions</li>
+    <li>Incorporates live data such as weather updates, traffic updates and local events, ensuring that your travel plan remains relevant and responsive to real-world conditions</li>
     <li>Combining an intuitive Expo/React Native frontend with a robust Spring Boot/MongoDB backend and advanced AI orchestration, providing a game-changing, end-to-end travel planning solution</li>
   </ul>
 </details>
