@@ -59,6 +59,15 @@ Expand for more information
 ### Data Science/AI
 <details>
   <summary>
+    <strong>🤖 <a href="https://github.com/syd9191/GPT2-exploration">GPT2 - Exploration</a></strong>
+  </summary>
+  <ul>
+    <li> Toy/Experimentation with building GPT2 with full training, evaluation, quantization, logging, distributed training support, and token-level streaming from disk </li>
+    <li> Modular and research-friendly setup, designed for experimentation with scaling and architecture changes </li>
+  </ul>
+</details>
+<details>
+  <summary>
     <strong>🧠 <a href="https://github.com/NomadicSasquatch/Feedforward-Neural-Network">Feedforward Neural Network from Scratch</a></strong>
   </summary>
   <ul>
