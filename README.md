@@ -59,6 +59,16 @@ Expand for more information
 ### Data Science/AI
 <details>
   <summary>
+    <strong>📈 Tiny Automatic Differentiation && Tensor Engine From Scratch -- Work In Progress</a></strong>
+  </summary>
+  <ul>
+    <li> Reverse-mode automatic differentiation system from scratch, enabling efficient backpropagation through arbitrary computation graphs </li>
+    <li> Extensible modular architecture, supporting core tensor operations, matrix algebra, activation functions, and gradient-based optimization </li>
+    <li> For fun </li>
+  </ul>
+</details>
+<details>
+  <summary>
     <strong>🤖 <a href="https://github.com/syd9191/GPT2-exploration">Toy GPT2 - Exploration</a></strong>
   </summary>
   <ul>
