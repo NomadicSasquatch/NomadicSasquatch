@@ -59,7 +59,7 @@ Expand for more information
 ### Data Science/AI
 <details>
   <summary>
-    <strong>📈 Tiny Automatic Differentiation && Tensor Engine From Scratch -- Work In Progress</a></strong>
+    <strong>🧮 Tiny Automatic Differentiation && Tensor Engine From Scratch -- Work In Progress</a></strong>
   </summary>
   <ul>
     <li> Reverse-mode automatic differentiation system from scratch, enabling efficient backpropagation through arbitrary computation graphs </li>
