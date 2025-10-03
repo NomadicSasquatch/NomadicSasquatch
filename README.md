@@ -59,6 +59,15 @@ Expand for more information
 ### Data Science/AI
 <details>
   <summary>
+    <strong>🔍 Instance Segmentation Model From Scratch -- Work In Progress</a></strong>
+  </summary>
+  <ul>
+    <li> Simple instance segmentation model with resnet50 inspired backbone </li>
+    <li> For fun </li>
+  </ul>
+</details>
+<details>
+  <summary>
     <strong>🧮 Tiny Automatic Differentiation && Tensor Engine From Scratch (C) -- Work In Progress</a></strong>
   </summary>
   <ul>
