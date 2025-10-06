@@ -7,38 +7,6 @@ Hello 👋, I'm Bo Yu, a Computer Science student at Nanyang Technological Unive
 Expand for more information
 
 ---
-### Full-Stack
-<details>
-  <summary>
-    <strong>🏁 <a href="https://github.com/NomadicSasquatch/Pathfinding-Visualiser">Pathfinding Visualiser</a></strong>
-  </summary>
-  <ul>
-    <li>An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation</li>
-    <li>Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed</li>
-  </ul>
-</details>
-<details>
-  <summary>
-    <strong>📚 <a href="https://github.com/NomadicSasquatch/EduCareer">EduCareer</a></strong>
-  </summary>
-  <ul>
-    <li>Full-stack web app that integrates a React/TypeScript SPA, Node.js/Express API, and MySQL schema into a single Docker‑ready project with end‑to‑end testing and CI/CD for rapid feature delivery</li>
-    <li>Frontend is embedded by a FastAPI‑powered chatbot using Gemini API and Tavily to deliver real‑time, personalised career roadmap</li>
-    <li>Provides users(learner, provider, and admin) with dashboards, comprehensive course and enrollment management, and scalable services via clean MVC‑style controllers and reusable components</li>
-  </ul>
-</details>
-<details>
-  <summary>
-    <strong>🌎 <a href="https://github.com/NomadicSasquatch/TravelLah">TravelLah</a></strong>
-  </summary>
-  <ul>
-    <li>Full-Stack Dynamic AI Travel Companion Web Application</li>
-    <li>Web application that uses cutting-edge AI to craft itineraries tailored specifically to your travel preferences, ensuring every plan is as unique</li>
-    <li>Incorporates live data such as weather updates, traffic updates and local events, ensuring that your travel plan remains relevant and responsive to real-world conditions</li>
-    <li>Combining an intuitive Expo/React Native frontend with a robust Spring Boot/MongoDB backend and advanced AI orchestration, providing a game-changing, end-to-end travel planning solution</li>
-  </ul>
-</details>
-
 ### Data Science/AI
 <details>
   <summary>
@@ -94,7 +62,39 @@ Expand for more information
     <li>The Phishing Link Detection System utilises machine learning techniques to accurately classify URLs as phishing or legitimate</li>
     <li>This project incorporates data preprocessing, feature selection, class balancing with SMOTE, and hyperparameter-tuned models like Random Forest, ensuring high accuracy and reliability</li>
   </ul>
+</details><br/>
+
+### Full-Stack
+<details>
+  <summary>
+    <strong>🏁 <a href="https://github.com/NomadicSasquatch/Pathfinding-Visualiser">Pathfinding Visualiser</a></strong>
+  </summary>
+  <ul>
+    <li>An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation</li>
+    <li>Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed</li>
+  </ul>
 </details>
+<details>
+  <summary>
+    <strong>📚 <a href="https://github.com/NomadicSasquatch/EduCareer">EduCareer</a></strong>
+  </summary>
+  <ul>
+    <li>Full-stack web app that integrates a React/TypeScript SPA, Node.js/Express API, and MySQL schema into a single Docker‑ready project with end‑to‑end testing and CI/CD for rapid feature delivery</li>
+    <li>Frontend is embedded by a FastAPI‑powered chatbot using Gemini API and Tavily to deliver real‑time, personalised career roadmap</li>
+    <li>Provides users(learner, provider, and admin) with dashboards, comprehensive course and enrollment management, and scalable services via clean MVC‑style controllers and reusable components</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <strong>🌎 <a href="https://github.com/NomadicSasquatch/TravelLah">TravelLah</a></strong>
+  </summary>
+  <ul>
+    <li>Full-Stack Dynamic AI Travel Companion Web Application</li>
+    <li>Web application that uses cutting-edge AI to craft itineraries tailored specifically to your travel preferences, ensuring every plan is as unique</li>
+    <li>Incorporates live data such as weather updates, traffic updates and local events, ensuring that your travel plan remains relevant and responsive to real-world conditions</li>
+    <li>Combining an intuitive Expo/React Native frontend with a robust Spring Boot/MongoDB backend and advanced AI orchestration, providing a game-changing, end-to-end travel planning solution</li>
+  </ul>
+</details><br/>
 
 ### Misc.
 <details>
