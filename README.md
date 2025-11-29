@@ -29,7 +29,7 @@ Expand for more information
 </details>
 <details>
   <summary>
-    <strong>🤖 <a href="https://github.com/syd9191/GPT2-exploration">Toy GPT2 - Exploration</a></strong>
+    <strong>🤖 <a href="https://github.com/NomadicSasquatch/GPT2-exploration">Toy GPT2 - Exploration</a></strong>
   </summary>
   <ul>
     <li> Toy/Experimentation with building GPT2 with full training, evaluation, quantization, logging, distributed training support, and token-level streaming from disk </li>
