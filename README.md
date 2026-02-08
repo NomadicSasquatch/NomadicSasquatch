@@ -51,7 +51,7 @@ Expand for more information
   </summary>
   <ul>
     <li>Comparative implementation of three reinforcement‑learning algorithms (Monte Carlo, Q‑Learning, and Deep Q‑Network with Double DQN) to solve OpenAI Gym’s CartPole‑v1, highlighting differences in convergence speed, stability, and generalization</li>
-    <li>Complete training and evaluation pipeline—including state discretization for tabular methods, ε‑greedy exploration, experience replay for DQN, and episode rendering—providing insights into method trade‑offs and best practices</li>
+    <li>Complete training and evaluation pipeline - including state discretization for tabular methods, ε‑greedy exploration, experience replay for DQN, and episode rendering - providing insights into method trade‑offs and best practices</li>
   </ul>
 </details>
 <details>
@@ -71,7 +71,7 @@ Expand for more information
   </summary>
   <ul>
     <li>An engaging, web-based visualiser for pathfinding algorithms, featuring user authentication, customizable wall patterns, and real-time maze generation</li>
-    <li>Users can register or log in to save up to three unique pattern “slots,” ensuring a personalized experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed</li>
+    <li>Users can register or log in to save up to three unique pattern “slots,” ensuring a personalised experience. Guest users can still explore the visualiser with temporary patterns, which remain until the application is refreshed or closed</li>
   </ul>
 </details>
 <details>
