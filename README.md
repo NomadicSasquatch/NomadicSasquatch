@@ -85,7 +85,7 @@ Expand for more information
 </details>
 <details>
   <summary>
-    <strong>📚 <a href="https://github.com/NomadicSasquatch/EduCareer">EduCareer</a></strong>
+    <strong>📚 <a href="https://github.com/NomadicSasquatch/EduCareer">EduCareer - E-commerce Course Websites </a></strong>
   </summary>
   <ul>
     <li>Full-stack web app that integrates a React/TypeScript SPA, Node.js/Express API, and MySQL schema into a single Docker‑ready project with end‑to‑end testing and CI/CD for rapid feature delivery</li>
@@ -95,7 +95,7 @@ Expand for more information
 </details>
 <details>
   <summary>
-    <strong>🌎 <a href="https://github.com/NomadicSasquatch/TravelLah">TravelLah</a></strong>
+    <strong>🌎 <a href="https://github.com/NomadicSasquatch/TravelLah">TravelLah - Dynamic, Adaptive Travel Planner/Companion</a></strong>
   </summary>
   <ul>
     <li>Full-Stack Dynamic AI Travel Companion Web Application</li>
