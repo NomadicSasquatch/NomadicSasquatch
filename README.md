@@ -47,6 +47,15 @@ Expand for more information
 </details>
 <details>
   <summary>
+    <strong>🔢 <a href="https://github.com/NomadicSasquatch/Symbols-Recognition">CV Model Training On Unique Symbols</a></strong>
+  </summary>
+  <ul>
+    <li>Training scripts for a cv model to recognise a set of unique symbols (eg numbers, letter, arrows etc). Involves basic data cleaning and augmentations for model training.</li>
+    <li>Local api to conduct live inference from camera source</li>
+  </ul>
+</details>
+<details>
+  <summary>
     <strong>🛒 <a href="https://github.com/NomadicSasquatch/CartPole_Reinforcement_Learning_Exp">CartPole Reinforcement Learning Experimentation</a></strong>
   </summary>
   <ul>
